@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **a.eldeen91@gmail.com**
 
+[![Codewars](https://www.codewars.com/users/aladdin91/badges/large)](https://www.codewars.com/users/aladdin91)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/aladdin91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aladdin91" height="30" width="40" /></a>
