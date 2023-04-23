@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/aladdin91](https://codepen.io/aladdin91)
 
 - 💬 Ask me about **anything**
 
