@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alaa</h1>
-<h3 align="center">student @HackYourFuture-CPH</h3>
+<h3 align="center">Graduate @HackYourFuture-CPH</h3>
 
 <p align="left"> <a href="https://twitter.com/alaa_abdelbaki_" target="blank"><img src="https://img.shields.io/twitter/follow/alaa_abdelbaki_?logo=twitter&style=for-the-badge" alt="alaa_abdelbaki_" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Typescript**
 
 
 - 💬 Ask me about **anything**
