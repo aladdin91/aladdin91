@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,express,git,github,mysql,nodejs,postman,mongodb,react,tailwind,vscode&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,express,git,github,mysql,nodejs,postman,mongodb,react,tailwind,vscode,vite&perline=4)](https://skillicons.dev)
 
 
 
