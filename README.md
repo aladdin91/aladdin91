@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **a.eldeen91@gmail.com**
 
-[![Codewars](https://www.codewars.com/users/aladdin91/badges/large)](https://www.codewars.com/users/aladdin91)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
