@@ -27,7 +27,7 @@
 
 <h3 align="left">Im Learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,redux,aws,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,aws,astro)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aladdin91&show_icons=true&locale=en&layout=compact" alt="aladdin91" /></p>
 
