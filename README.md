@@ -30,7 +30,3 @@
 [![My Skills](https://skillicons.dev/icons?i=dotnet,aws,astro)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aladdin91&show_icons=true&locale=en&layout=compact" alt="aladdin91" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aladdin91&show_icons=true&locale=en" alt="aladdin91" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aladdin91&" alt="aladdin91" /></p>
