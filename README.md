@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/alaa_abdelbaki_" target="blank"><img src="https://img.shields.io/twitter/follow/alaa_abdelbaki_?logo=twitter&style=for-the-badge" alt="alaa_abdelbaki_" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript || Nextjs**
+- 🌱 I’m currently learning **C# || .net**
 
 
 - 💬 Ask me about **anything**
